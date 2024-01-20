@@ -9,7 +9,7 @@
       "camera": "Dual 12MP system",
       "storage": "128GB",
       "price": "$699",
-      "image": "https://example.com/iphone13.jpg"
+      "image": "https://i.ibb.co/3vRn9WT/iphone15-removebg-preview.png"
     },
     {
       "id": 2,
@@ -21,7 +21,7 @@
       "camera": "Dual 12MP system",
       "storage": "128GB",
       "price": "$699",
-      "image": "https://example.com/iphone13mini.jpg"
+      "image": "https://i.ibb.co/jW08zY4/Apple-iphone-15-pro-natural-titanium-128gb-Front-Back-View.webp"
     },
     {
       "id": 3,
@@ -33,7 +33,7 @@
       "camera": "Triple 12MP system",
       "storage": "128GB",
       "price": "$999",
-      "image": "https://example.com/iphone13pro.jpg"
+      "image": "https://i.ibb.co/DVJkDQv/images-7-removebg-preview.png"
     },
     {
       "id": 4,
@@ -45,7 +45,7 @@
       "camera": "Triple 12MP system",
       "storage": "128GB",
       "price": "$1,099",
-      "image": "https://example.com/iphone13promax.jpg"
+      "image": "https://i.ibb.co/GPy2hB8/images-8-removebg-preview.png"
     },
     {
       "id": 5,
@@ -57,7 +57,7 @@
       "camera": "Dual 12MP system",
       "storage": "64GB",
       "price": "$799",
-      "image": "https://example.com/iphone12.jpg"
+      "image": "https://i.ibb.co/cQz4MXQ/images-6-removebg-preview-1.png"
     },
     {
       "id": 6,
@@ -69,7 +69,7 @@
       "camera": "Dual 12MP system",
       "storage": "64GB",
       "price": "$699",
-      "image": "https://example.com/iphone12mini.jpg"
+      "image": "https://i.ibb.co/3vRn9WT/iphone15-removebg-preview.png"
     },
     {
       "id": 7,
@@ -81,7 +81,7 @@
       "camera": "Triple 12MP system",
       "storage": "128GB",
       "price": "$999",
-      "image": "https://example.com/iphone12pro.jpg"
+      "image": "https://i.ibb.co/cQz4MXQ/images-6-removebg-preview-1.png"
     },
     {
       "id": 8,
@@ -93,7 +93,7 @@
       "camera": "Triple 12MP system",
       "storage": "128GB",
       "price": "$1,099",
-      "image": "https://example.com/iphone12promax.jpg"
+      "image": "https://i.ibb.co/mSt4xBw/images-5-removebg-preview.png"
     },
     {
       "id": 9,
@@ -105,7 +105,7 @@
       "camera": "Single 12MP system",
       "storage": "64GB",
       "price": "$399",
-      "image": "https://example.com/iphonese2.jpg"
+      "image": "https://i.ibb.co/cDfZgJB/images-4-removebg-preview.png"
     },
     {
       "id": 10,
@@ -117,7 +117,7 @@
       "camera": "Dual 12MP system",
       "storage": "64GB",
       "price": "$699",
-      "image": "https://example.com/iphone11.jpg"
+      "image": "https://i.ibb.co/27rX3MX/images-3-removebg-preview.png"
     },
     {
       "id": 11,
@@ -129,7 +129,7 @@
       "camera": "Triple 12MP system",
       "storage": "64GB",
       "price": "$999",
-      "image": "https://example.com/iphone11pro.jpg"
+      "image": "https://i.ibb.co/Tt901bG/images-1-removebg-preview.png"
     },
     {
       "id": 12,
@@ -141,7 +141,7 @@
       "camera": "Triple 12MP system",
       "storage": "64GB",
       "price": "$1,099",
-      "image": "https://example.com/iphone11promax.jpg"
+      "image": "https://i.ibb.co/KLC1vDk/download-removebg-preview.png"
     },
     {
       "id": 13,
@@ -153,7 +153,7 @@
       "camera": "Single 12MP system",
       "storage": "64GB",
       "price": "$599",
-      "image": "https://example.com/iphonexr.jpg"
+      "image": "https://i.ibb.co/TkDbghg/download-1-removebg-preview.png"
     },
     {
       "id": 14,
@@ -165,7 +165,7 @@
       "camera": "Dual 12MP system",
       "storage": "64GB",
       "price": "$999",
-      "image": "https://example.com/iphonexs.jpg"
+      "image": "https://i.ibb.co/3vRn9WT/iphone15-removebg-preview.png"
     },
     {
       "id": 15,
@@ -177,7 +177,67 @@
       "camera": "Dual 12MP system",
       "storage": "64GB",
       "price": "$999",
-      "image": "https://example.com/iphonexs.jpg"
+      "image": "https://i.ibb.co/3vRn9WT/iphone15-removebg-preview.png"
+    },
+    {
+      "id": 16,
+      "name": "iPhone XS Max",
+      "model": "XS Max",
+      "year": 2018,
+      "display": "6.5 inches Super Retina HD",
+      "processor": "A12 Bionic",
+      "camera": "Dual 12MP system",
+      "storage": "64GB",
+      "price": "$999",
+      "image": "https://i.ibb.co/3vRn9WT/iphone15-removebg-preview.png"
+    },
+    {
+      "id": 17,
+      "name": "iPhone XS Max",
+      "model": "XS Max",
+      "year": 2018,
+      "display": "6.5 inches Super Retina HD",
+      "processor": "A12 Bionic",
+      "camera": "Dual 12MP system",
+      "storage": "64GB",
+      "price": "$999",
+      "image": "https://i.ibb.co/3vRn9WT/iphone15-removebg-preview.png"
+    },
+    {
+      "id": 18,
+      "name": "iPhone XS Max",
+      "model": "XS Max",
+      "year": 2018,
+      "display": "6.5 inches Super Retina HD",
+      "processor": "A12 Bionic",
+      "camera": "Dual 12MP system",
+      "storage": "64GB",
+      "price": "$999",
+      "image": "https://i.ibb.co/3vRn9WT/iphone15-removebg-preview.png"
+    },
+    {
+      "id": 19,
+      "name": "iPhone XS Max",
+      "model": "XS Max",
+      "year": 2018,
+      "display": "6.5 inches Super Retina HD",
+      "processor": "A12 Bionic",
+      "camera": "Dual 12MP system",
+      "storage": "64GB",
+      "price": "$999",
+      "image": "https://i.ibb.co/3vRn9WT/iphone15-removebg-preview.png"
+    },
+    {
+      "id": 20,
+      "name": "iPhone XS Max",
+      "model": "XS Max",
+      "year": 2018,
+      "display": "6.5 inches Super Retina HD",
+      "processor": "A12 Bionic",
+      "camera": "Dual 12MP system",
+      "storage": "64GB",
+      "price": "$999",
+      "image": "https://i.ibb.co/3vRn9WT/iphone15-removebg-preview.png"
     }
 ]
   
